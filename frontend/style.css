@@ -1,0 +1,64 @@
+﻿BODY{
+	font-family: "Lato", sans-serif;
+	width:300px;
+	margin: auto;
+	padding: 0px;
+}
+
+.besidered{
+	border-left: 1px solid red;
+	border-right: 1px solid red;
+}
+
+
+table{
+	width: 300px;
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
+	border-left: 1px solid black;
+	border-right: 1px solid black;
+	margin: 0;
+	padding: 0px;
+	border-spacing: 0;
+}
+
+tbody{
+	border-top: 0;
+	border-bottom: 0;
+	border-left: 0;
+	border-right: 0;
+	margin: 0;
+	padding: 0px;
+	border-spacing: 0;
+}
+
+th{
+	background-color: #2E3641;
+	border-top: 0;
+	border-bottom: 0;
+	border-left: 0;
+	border-right: 0;
+	margin: 0;
+	padding: 5px;
+	border-spacing: 0;
+}
+
+tr{
+	border-top: 1px solid #9eb2c0;
+	border-bottom: 0;
+	border-left: 0;
+	border-right: 0;
+	margin: 0;
+	padding: 0px;
+	border-spacing: 0;
+}
+
+td{
+	border-top: 1px solid #9eb2c0;
+	border-bottom: 0;
+	border-left: 0;
+	border-right: 0;
+	margin: 0;
+	padding: 5px;
+	border-spacing: 0;
+}
